@@ -5,5 +5,7 @@ Power BI : <br>
 
 - Module 1 : [Cliquer ici](https://learn.microsoft.com/fr-fr/users/rababkhtib-5254/achievements/82hlcjcw)  <br>
 - Module 2 : [Cliquer ici](https://learn.microsoft.com/api/achievements/share/fr-fr/RababKHTIB-5254/NMNWTJNF?sharingId=D1D2160AE0AA1A0F)  <br>
-- Module 3: [Cliquer ici](https://learn.microsoft.com/api/achievements/share/fr-fr/RababKHTIB-5254/U7HEY6N3?sharingId=D1D2160AE0AA1A0F) <br>
+- Module 3 : [Cliquer ici](https://learn.microsoft.com/api/achievements/share/fr-fr/RababKHTIB-5254/U7HEY6N3?sharingId=D1D2160AE0AA1A0F) <br>
+- Module 4 : [Cliquer ici](https://learn.microsoft.com/api/achievements/share/fr-fr/RababKHTIB-5254/7D2GBCTZ?sharingId=D1D2160AE0AA1A0F) <br>
+- Module 5 : [Cliquer ici](https://learn.microsoft.com/api/achievements/share/fr-fr/RababKHTIB-5254/H2W4ZBQ8?sharingId=D1D2160AE0AA1A0F) <br>
 
